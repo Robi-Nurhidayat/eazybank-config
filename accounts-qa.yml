@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "ini lingkungan qa"
+  contactDetails:
+    name: "qa test"
+    email: "qa@gmail.com"
+  onCallSupport:
+    - 111111111
+    - 111111111

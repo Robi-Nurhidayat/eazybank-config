@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "ini lingkungan production card ms"
+  contactDetails:
+    name: "production test"
+    email: "production@gmail.com"
+  onCallSupport:
+    - 222222222
+    - 222222222

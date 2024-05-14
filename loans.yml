@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "ini lingkungan deafult loans"
+  contactDetails:
+    name: "robi"
+    email: "robi@gmail.com"
+  onCallSupport:
+    - 9080398495
+    - 435434534
