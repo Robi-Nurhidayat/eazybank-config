@@ -1,9 +1,8 @@
-
 build:
   version: "2.0"
 
 accounts:
-  message: "ini lingkungan qa loans"
+  message: "ini lingkungan qa"
   contactDetails:
     name: "qa test"
     email: "qa@gmail.com"
