@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "ini lingkungan production card ms"
+  message: "ini lingkungan production card ms test"
   contactDetails:
     name: "production test"
     email: "production@gmail.com"
