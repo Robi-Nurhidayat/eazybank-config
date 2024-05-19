@@ -2,7 +2,7 @@
 build:
   version: "3.0"
 
-accounts:
+cards:
   message: "ini lingkungan deafult cards"
   contactDetails:
     name: "robi"
