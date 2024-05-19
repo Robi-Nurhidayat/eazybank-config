@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "ini lingkungan production loans ms"
+  message: "ini lingkungan production loans ms test"
   contactDetails:
     name: "production test"
     email: "production@gmail.com"
