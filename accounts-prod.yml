@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "ini lingkungan production di perbarui untuk menjalankan webhook "
+  message: "ini lingkungan production di perbarui untuk menjalankan webhook docker"
   contactDetails:
     name: "production test"
     email: "{cipher}060f6029d3f380267d72b879ab06d9dd5b4ae4a3f7b6ef5d385b333144812f06cc0e439415082e1534eebae781f34502"
